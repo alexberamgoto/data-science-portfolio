@@ -1,0 +1,20 @@
+meta {
+  name: 6-obtenir les cinqs prémieres pizzas proposées dans le menu
+  type: http
+  seq: 6
+}
+
+get {
+  url: {{API_BASE}}/items/pizzas?limit=5
+  body: none
+  auth: inherit
+}
+
+params:query {
+  limit: 5
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

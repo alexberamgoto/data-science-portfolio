@@ -1,0 +1,77 @@
+Projet BI 
+
+nous avons des données des pays africains provenant de la banque mondiale, l'objectif es t de créer des rapports sous différents angles pour pouvoir créer un rapport de 50 pages à remettre sur power BI. les pays ayant des valeurs manquantes, il faut piocher dans d'autres bases données en lignes ou faire la médiane. hypothèse 1 les catégoriser selon les contextes géopolitiques afin de les inclure dans le rapport. à rendre avant le 28 février. organisation : le travail peut être fait en binômes ou en individuel. les axes clés sont la démographies, le taux d'alphabétisation, regrouper en communauté géographique, l'émergence des pays, la distribution de la richesse, l'accès à la santé, l'évolution technologique, des différents indicateurs importants en vue de prendre les décisions, le niveau de développement, les réalités économiques. 
+nous avons sur les données les pays comme ayant les situations particulières comme le soudan du sud, la somalie qui sont dans une instabilité politique causée par les conflits politiques. l'idée de trouver un mécanisme scientifique afin de trouver les donnés en vue d'élaborer notre rappor, soit les catégoriser par région géographie et estimer les statistiques de faire un travail complet. En  bonus faire unn rapporty complet orienté business intelligente. 
+
+Démographie: 
+la  distribution de la richesse et la croissance entre 54 pays ?
+🗺 Carte choroplèthe · PIB/hab
+📊 Barres Top 10 / Bottom 10
+📈 Courbes · Croissance PIB 2013→2016
+🔵 Bulles · Population vs PIB/hab
+🎯 KPI · Population totale, PIB médian
+ À commenter : Le ratio de richesse ×71, les 3 clusters de pays (riches >4000$, intermédiaires 1000-4000$, fragiles <1000$). La chute spectaculaire de la RCA (-36%) et le rebond. L'entrée en récession du Nigeria en 2016 (-1.6%), première économie du continent.
+Profils pays :
+« Riches » (>4000$) :
+Seychelles
+Maurice
+Libye
+G. Équatoriale
+Botswana
+Afrique du Sud
+Namibie
+Gabon
+Algérie
+« Intermédiaires » (1000-4000$) : 21 pays dont Égypte, Maroc, Nigeria, Ghana, Kenya
+« Fragiles » (<1000$) : 22 pays dont Burundi, RCA, Éthiopie, Madagascar, Mozambique, RDC
+Page 2 · Angle fort ⭐
+Le clivage de genre sur le marché du travail
+Genre & Emploi
+Question : Où les femmes sont-elles les plus exclues — et pourquoi ?
+🔵 Scatter · Chômage F (Y) vs Chômage H (X) avec diagonale
+📊 Barres appariées · Participation F vs H par pays
+🗺 Carte · Ratio participation F/H (vert→rouge)
+📊 Barres · Top 10 écarts chômage F−H
+ L'histoire à raconter : Un clivage géographique net. Les 6 pays où le ratio F/H < 0.4 sont tous d'Afrique du Nord / zone arabe (Algérie, Égypte, Maroc, Soudan, Djibouti, Tunisie). En Afrique subsaharienne, 14 pays dépassent 0.9 (quasi-parité). Le Burundi (1.03) est le seul pays où les femmes participent plus que les hommes. Par ailleurs, 13 pays ont un chômage masculin supérieur au féminin — un paradoxe lié au secteur informel.
+Page 3
+Inflation, crédit et stabilité financière
+Macro
+Finance
+Question : Quels pays souffrent d'instabilité monétaire, et le système financier est-il accessible ?
+📈 Courbes · Évolution inflation par pays
+🔥 Heatmap · Inflation par pays × année
+📊 Barres · Crédit au secteur privé (% PIB)
+🔵 Scatter · Inflation vs Croissance PIB
+ À commenter : Le Soudan du Sud passe de −0.1% à 380% d'inflation en 3 ans. Le Malawi maintient >20% sur 4 ans. Côté crédit : fossé abyssal entre l'Afrique du Sud (124% du PIB) et la Sierra Leone (3.5%). La médiane de 17.8% montre un continent largement sous-financé — frein majeur à la croissance des PME.
+Page 4
+Urbanisation et transformation structurelle
+Démographie
+Macro
+Question : L'urbanisation est-elle un levier de développement ?
+🔵 Scatter · Urbanisation (X) vs PIB/hab (Y) — r=0.43
+📈 Courbes · Évolution urbanisation 2013→2016
+📊 Combo chart · Population totale + % urbain
+🗺 Carte · Taux d'urbanisation
+ À commenter : Corrélation positive (r=0.43) mais pas déterministe. Gabon (88% urbain) et Djibouti (78%) sont très urbanisés sans être les plus riches. Le Burundi (16%) est le moins urbanisé ET le plus pauvre. L'urbanisation est corrélée au chômage déclaré (+0.50/0.53) — elle rend le chômage visible là où la campagne le masque dans l'informel.
+Page 5
+Pauvreté extrême — L'autre face de la croissance
+Social
+Macro
+Question : La croissance profite-t-elle aux plus pauvres ?
+📊 Barres · Taux de pauvreté extrême par pays
+🔵 Scatter · Pauvreté vs PIB/habitant
+🔵 Scatter · Pauvreté vs Urbanisation
+🎯 KPI · Nombre de pays > 50% de pauvreté
+ Attention : Données disponibles pour 32 pays seulement (59%). Affichez clairement cette limite (texte ou KPI « 32/54 ») pour ne pas induire en erreur. Le Rwanda a une pauvreté de 64-66% malgré une croissance forte — la croissance seule ne réduit pas automatiquement la pauvreté.
+Page 6
+Scorecard 360° — Profil pays interactif
+Macro
+Genre
+Social
+Finance
+Question : Quel est le profil complet d'un pays donné ?
+🔲 Matrice · Pays × indicateurs (mise en forme conditionnelle)
+🎯 KPI dynamiques · Selon slicer pays/année
+🔽 Slicers · Pays, Année, Catégorie (dim_indicator)
+📊 Radar · Profil multidimensionnel (custom visual)
+ Conseil UX : C'est la page « libre-service ». Le slicer category de dim_indicator permet de basculer entre thématiques. Le Botswana et Maurice brillent sur presque tous les indicateurs. Le Soudan du Sud cumule les difficultés.

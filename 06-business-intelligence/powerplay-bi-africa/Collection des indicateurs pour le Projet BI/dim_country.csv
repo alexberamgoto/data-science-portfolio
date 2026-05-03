@@ -1,0 +1,55 @@
+iso3,country,country_id
+DZA,Algeria,1
+AGO,Angola,2
+BEN,Benin,3
+BWA,Botswana,4
+BFA,Burkina Faso,5
+BDI,Burundi,6
+CPV,Cabo Verde,7
+CMR,Cameroon,8
+CAF,Central African Republic,9
+TCD,Chad,10
+COM,Comoros,11
+COD,"Congo, Dem. Rep.",12
+COG,"Congo, Rep.",13
+CIV,Cote d'Ivoire,14
+DJI,Djibouti,15
+EGY,"Egypt, Arab Rep.",16
+GNQ,Equatorial Guinea,17
+ERI,Eritrea,18
+SWZ,Eswatini,19
+ETH,Ethiopia,20
+GAB,Gabon,21
+GMB,"Gambia, The",22
+GHA,Ghana,23
+GIN,Guinea,24
+GNB,Guinea-Bissau,25
+KEN,Kenya,26
+LSO,Lesotho,27
+LBR,Liberia,28
+LBY,Libya,29
+MDG,Madagascar,30
+MWI,Malawi,31
+MLI,Mali,32
+MRT,Mauritania,33
+MUS,Mauritius,34
+MAR,Morocco,35
+MOZ,Mozambique,36
+NAM,Namibia,37
+NER,Niger,38
+NGA,Nigeria,39
+RWA,Rwanda,40
+STP,Sao Tome and Principe,41
+SEN,Senegal,42
+SYC,Seychelles,43
+SLE,Sierra Leone,44
+SOM,"Somalia, Fed. Rep.",45
+ZAF,South Africa,46
+SSD,South Sudan,47
+SDN,Sudan,48
+TZA,Tanzania,49
+TGO,Togo,50
+TUN,Tunisia,51
+UGA,Uganda,52
+ZMB,Zambia,53
+ZWE,Zimbabwe,54

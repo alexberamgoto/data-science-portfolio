@@ -1,0 +1,234 @@
+version: '3.8'
+
+services:
+  
+  # ZOOKEEPER (Coordination Kafka)
+  # ═════════════════════════════════════════════
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    container_name: zookeeper
+    hostname: zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    networks:
+      - bigdata-net
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "2181"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+
+  # KAFKA (Streaming)
+  # ═════════════════════════════════════════════
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    container_name: kafka
+    hostname: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    networks:
+      - bigdata-net
+    healthcheck:
+      test: ["CMD", "kafka-broker-api-versions.sh", "--bootstrap-server", "localhost:9092"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # ═════════════════════════════════════════════
+  # HDFS : NAMENODE (Master)
+  # ═════════════════════════════════════════════
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    hostname: namenode
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    environment:
+      CLUSTER_NAME: "bigdata-cluster"
+      CORE_CONF_fs_defaultFS: "hdfs://namenode:9000"
+      CORE_CONF_hadoop_http_staticuser_user: "root"
+      CORE_CONF_hadoop_proxyuser_hive_hosts: "*"
+      CORE_CONF_hadoop_proxyuser_hive_groups: "*"
+      HDFS_CONF_dfs_namenode_name_dir: "/hadoop/dfs/name"
+      HDFS_CONF_dfs_datanode_data_dir: "/hadoop/dfs/data"
+    volumes:
+      - namenode:/hadoop/dfs/name
+    networks:
+      - bigdata-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9870"]
+      interval: 15s
+      timeout: 10s
+      retries: 3
+
+  # ═════════════════════════════════════════════
+  # HDFS : SECONDARY NAMENODE
+  # ═════════════════════════════════════════════
+  secondarynamenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: secondarynamenode
+    hostname: secondarynamenode
+    ports:
+      - "9868:9868"
+    environment:
+      CLUSTER_NAME: "bigdata-cluster"
+      CORE_CONF_fs_defaultFS: "hdfs://namenode:9000"
+      HDFS_CONF_dfs_namenode_name_dir: "/hadoop/dfs/name"
+      HDFS_CONF_dfs_datanode_data_dir: "/hadoop/dfs/data"
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks:
+      - bigdata-net
+
+  # ═════════════════════════════════════════════
+  # HDFS : DATANODE 1
+  # ═════════════════════════════════════════════
+  datanode1:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode1
+    hostname: datanode1
+    ports:
+      - "9864:9864"
+    environment:
+      CLUSTER_NAME: "bigdata-cluster"
+      CORE_CONF_fs_defaultFS: "hdfs://namenode:9000"
+      HDFS_CONF_dfs_datanode_data_dir: "/hadoop/dfs/data"
+    depends_on:
+      namenode:
+        condition: service_healthy
+    volumes:
+      - datanode1:/hadoop/dfs/data
+    networks:
+      - bigdata-net
+
+  # ═════════════════════════════════════════════
+  # HDFS : DATANODE 2
+  # ═════════════════════════════════════════════
+  datanode2:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode2
+    hostname: datanode2
+    ports:
+      - "9865:9864"
+    environment:
+      CLUSTER_NAME: "bigdata-cluster"
+      CORE_CONF_fs_defaultFS: "hdfs://namenode:9000"
+      HDFS_CONF_dfs_datanode_data_dir: "/hadoop/dfs/data"
+    depends_on:
+      namenode:
+        condition: service_healthy
+    volumes:
+      - datanode2:/hadoop/dfs/data
+    networks:
+      - bigdata-net
+
+  # ═════════════════════════════════════════════
+  # SPARK : MASTER
+  # ═════════════════════════════════════════════
+  spark-master:
+    image: apache-spark:3.4.0
+    container_name: spark-master
+    hostname: spark-master
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+      - "4040:4040"
+    environment:
+      SPARK_MODE: master
+      SPARK_LOCAL_IP: spark-master
+      SPARK_RPC_AUTHENTICATION_ENABLED: "no"
+      SPARK_RPC_ENCRYPTION_ENABLED: "no"
+      SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED: "no"
+    depends_on:
+      - namenode
+      - kafka
+    volumes:
+      - ./spark_jobs:/spark_jobs
+      - ./data:/data
+    networks:
+      - bigdata-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 15s
+      timeout: 10s
+      retries: 3
+
+  # ═════════════════════════════════════════════
+  # SPARK : WORKER 1
+  # ═════════════════════════════════════════════
+  spark-worker-1:
+    image: apache-spark:3.4.0
+    container_name: spark-worker-1
+    hostname: spark-worker-1
+    ports:
+      - "8081:8081"
+    environment:
+      SPARK_MODE: worker
+      SPARK_MASTER_URL: spark://spark-master:7077
+      SPARK_WORKER_MEMORY: 2G
+      SPARK_WORKER_CORES: 2
+    depends_on:
+      spark-master:
+        condition: service_healthy
+    volumes:
+      - ./spark_jobs:/spark_jobs
+      - ./data:/data
+    networks:
+      - bigdata-net
+
+  # ═════════════════════════════════════════════
+  # SPARK : WORKER 2
+  # ═════════════════════════════════════════════
+  spark-worker-2:
+    image: apache-spark:3.4.0
+    container_name: spark-worker-2
+    hostname: spark-worker-2
+    ports:
+      - "8082:8081"
+    environment:
+      SPARK_MODE: worker
+      SPARK_MASTER_URL: spark://spark-master:7077
+      SPARK_WORKER_MEMORY: 2G
+      SPARK_WORKER_CORES: 2
+    depends_on:
+      spark-master:
+        condition: service_healthy
+    volumes:
+      - ./spark_jobs:/spark_jobs
+      - ./data:/data
+    networks:
+      - bigdata-net
+
+# ═════════════════════════════════════════════
+# NETWORKS
+# ═════════════════════════════════════════════
+networks:
+  bigdata-net:
+    driver: bridge
+
+# ═════════════════════════════════════════════
+# VOLUMES
+# ═════════════════════════════════════════════
+volumes:
+  namenode:
+    driver: local
+  datanode1:
+    driver: local
+  datanode2:
+    driver: local

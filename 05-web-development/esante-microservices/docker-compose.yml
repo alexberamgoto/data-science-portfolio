@@ -1,0 +1,91 @@
+
+
+services:
+  # ── MariaDB (Auth DB) ──────────────────────────────────
+  auth-db:
+    image: mariadb:10.11
+    container_name: auth-db
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: auth_db
+      MYSQL_USER: auth_user
+      MYSQL_PASSWORD: auth_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - auth-db-data:/var/lib/mysql
+    networks:
+      - esante-network
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── MongoDB (Health DB) ────────────────────────────────
+  health-db:
+    image: mongo:7.0
+    container_name: health-db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: health_user
+      MONGO_INITDB_ROOT_PASSWORD: health_password
+      MONGO_INITDB_DATABASE: health_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - health-db-data:/data/db
+    networks:
+      - esante-network
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Auth Service (Gateway — port 3000) ─────────────────
+  auth-service:
+    build:
+      context: ./auth-service
+      dockerfile: Dockerfile
+    container_name: auth-service
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: mysql+pymysql://auth_user:auth_password@auth-db:3306/auth_db
+      JWT_SECRET: super_secret_key_e_sante_2026
+      JWT_ALGORITHM: HS256
+      JWT_EXPIRATION_MINUTES: 30
+      JWT_REFRESH_EXPIRATION_DAYS: 7
+      HEALTH_SERVICE_URL: http://health-service:8000
+    depends_on:
+      auth-db:
+        condition: service_healthy
+    networks:
+      - esante-network
+    restart: unless-stopped
+
+  # ── Health Service (interne — port 8000) ───────────────
+  health-service:
+    build:
+      context: ./health-service
+      dockerfile: Dockerfile
+    container_name: health-service
+    environment:
+      MONGODB_URL: mongodb://health_user:health_password@health-db:27017/health_db?authSource=admin
+      MONGODB_DATABASE: health_db
+      JWT_SECRET: super_secret_key_e_sante_2026
+      JWT_ALGORITHM: HS256
+    depends_on:
+      health-db:
+        condition: service_healthy
+    networks:
+      - esante-network
+    restart: unless-stopped
+
+volumes:
+  auth-db-data:
+  health-db-data:
+
+networks:
+  esante-network:
+    driver: bridge

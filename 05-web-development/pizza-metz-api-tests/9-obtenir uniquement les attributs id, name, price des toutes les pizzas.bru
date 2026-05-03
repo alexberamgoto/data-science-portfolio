@@ -1,0 +1,20 @@
+meta {
+  name: 9-obtenir uniquement les attributs id, name, price des toutes les pizzas
+  type: http
+  seq: 9
+}
+
+get {
+  url: {{API_BASE}}/items/pizzas?fields=id,name,price
+  body: none
+  auth: inherit
+}
+
+params:query {
+  fields: id,name,price
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

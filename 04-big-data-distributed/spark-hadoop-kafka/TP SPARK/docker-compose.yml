@@ -1,0 +1,76 @@
+services:
+  spark-master:
+    image: apache-spark:3.4.0
+    container_name: spark-master
+    ports:
+      - "8080:8080" # Web UI Master
+      - "7077:7077" # Spark Master Port
+      - "9999:9999" #port for socket Data
+    environment:
+      - SPARK_LOCAL_IP=spark-master
+      - SPARK_WORKLOAD=master
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+    networks:
+      - spark-network
+
+  spark-worker-a:
+    image: apache-spark:3.4.0
+    container_name: spark-worker-a
+    ports:
+      - "8081:8081" # Web UI Worker
+      - "7000:7000" # Spark Worker Port
+    depends_on:
+      - spark-master
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_WORKLOAD=worker
+      - SPARK_LOCAL_IP=spark-worker-a
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=2G
+      - SPARK_EXECUTOR_MEMORY=1G
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+    networks:
+      - spark-network
+
+  spark-worker-b:
+    image: apache-spark:3.4.0
+    container_name: spark-worker-b
+    ports:
+      - "8082:8081" # Web UI Worker
+      - "7001:7000" # Spark Worker Port
+    depends_on:
+      - spark-master
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_WORKLOAD=worker
+      - SPARK_LOCAL_IP=spark-worker-b
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=2G
+      - SPARK_EXECUTOR_MEMORY=1G
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+    networks:
+      - spark-network
+  
+  data-generator:
+    image: python:3.9
+    container_name: data-generator
+    volumes:
+      - ./data-generator:/app
+    working_dir: /app
+    command: python data_generator.py
+    ports:
+      - "9998:9998"
+    networks:
+      - spark-network
+  
+
+networks:
+  spark-network:
+    name: spark-network
+    driver: bridge

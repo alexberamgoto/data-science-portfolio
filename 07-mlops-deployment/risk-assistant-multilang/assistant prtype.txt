@@ -1,0 +1,13 @@
+RiskAssistant – Assistant Intelligent de Gestion des Risques Clients
+Vision
+
+RiskAssistant est un copilote intelligent pour le risque crédit : il analyse chaque client en temps (quasi) réel, calcule un score de risque, détecte des comportements anormaux et propose des produits financiers adaptés.
+​
+L’objectif est de transformer des données brutes (montants, revenus, historique de la relation) en décisions actionnables : accepter, surveiller, ajuster une offre ou déclencher une alerte, le tout via une API Python et un client .NET simples à intégrer dans un SI existant.
+​
+
+Le défi adressé
+Aujourd’hui, l’analyse du risque client est souvent éclatée entre feuilles Excel, règles implicites et intuition métier, ce qui génère des décisions hétérogènes, des dossiers mal documentés et une faible traçabilité.
+​
+RiskAssistant répond à ce problème en centralisant : un scoring de risque, une détection d’anomalies de comportement (montant, solde, fréquence de transactions) et un moteur de recommandations de produits, accessibles par des endpoints clairs (/score_risque, /detect_anomalie, /reco_financiere) et consommés automatiquement par un client .NET dédié.
+​

@@ -1,0 +1,25 @@
+meta {
+  name: 11-afficher l'image de la pizza dont l'id est 1fa92403-d4e0-401a-9a6a-b5450b5cecf2 
+  type: http
+  seq: 11
+}
+
+get {
+  url: '''
+    {{API_BASE}}/items/pizzas/1fa92403-d4e0-401a-9a6a-b5450b5cecf2?fields=image.*
+    
+'''
+  body: none
+  auth: inherit
+}
+
+params:query {
+  fields: '''
+    image.*
+    
+  '''
+}
+
+settings {
+  encodeUrl: true
+}

@@ -1,0 +1,20 @@
+meta {
+  name: 1-Get all pizzas
+  type: http
+  seq: 1
+}
+
+get {
+  url: https://pizzas.shrp.dev/items/pizzas
+  body: none
+  auth: inherit
+}
+
+vars:post-response {
+  pizza_id: res.body.data[0].id
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

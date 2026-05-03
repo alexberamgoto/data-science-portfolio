@@ -1,0 +1,26 @@
+meta {
+  name: 12-création d'un nouveau utilisateur
+  type: http
+  seq: 12
+}
+
+post {
+  url: {{API_BASE}}/users
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "first_name": "BERAMGOTO",
+    "last_name": "Alexis",
+    "email": "alexisberamgoto@gmail.com",
+    "password": "azerty",
+    "role": "bad526d9-bc5a-45f1-9f0b-eafadcd4fc15"
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

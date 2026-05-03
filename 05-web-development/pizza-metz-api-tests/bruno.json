@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Pizza Metz",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

@@ -1,0 +1,53 @@
+version: "3.9"
+services:
+  api-rest:
+    build: ./api-rest
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./.env
+    depends_on:
+      - db-rest
+      - api-ml
+    networks:
+      - backend
+
+  db-rest:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - db_rest_data:/var/lib/postgresql/data
+    networks:
+      - backend
+
+  api-ml:
+    build: ./api-ml
+    expose:
+      - "8000"
+    env_file:
+      - ./.env
+    depends_on:
+      - db-ml
+    networks:
+      - backend
+
+  db-ml:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: ${ML_DB_NAME}
+      POSTGRES_USER: ${ML_DB_USER}
+      POSTGRES_PASSWORD: ${ML_DB_PASSWORD}
+    volumes:
+      - db_ml_data:/var/lib/postgresql/data
+    networks:
+      - backend
+
+volumes:
+  db_rest_data:
+  db_ml_data:
+
+networks:
+  backend:

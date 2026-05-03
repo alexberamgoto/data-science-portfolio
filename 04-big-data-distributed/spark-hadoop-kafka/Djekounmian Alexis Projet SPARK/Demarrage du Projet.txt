@@ -1,0 +1,238 @@
+ PROJET Architecture DISTRIBUÉE
+
+Ce projet implémente une architecture Big Data DISTRIBUÉE COMPLÈTE pour l'analyse
+des interactions sur réseaux sociaux, combinant :
+
+HDFS Cluster (NameNode + Secondary + 2 DataNodes)
+ Spark Cluster (Master + 2 Workers)  
+ Kafka/Zookeeper (Streaming time-real)
+ Docker Compose (Orchestration complète)
+ 6 Analyses de données (3 Batch + 3 Stream)
+ Scripts d'automation
+ Documentation exhaustive (15+ pages)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ FICHIERS PRINCIPAUX
+
+Infrastructure :
+  ✓ docker-compose.yml        — 13 services (HDFS, Spark, Kafka)
+  ✓ run_project.sh            — Démarrage automatisé complet
+  ✓ cleanup.sh                — Arrêt et nettoyage
+  ✓ check_status.sh           — Diagnostic cluster
+
+Documentation :
+  ✓ README.md                 — Guide d'utilisation complete
+  ✓ Rapport du PROJET.md                — Rapport technique 15 pages
+  ✓ Résumé.md         — État du projet et livrables
+
+Jobs Spark Batch (Traitement historique) :
+  ✓ batch_engagement.py       — Engagement utilisateur + score
+  ✓ batch_preferences_age.py  — Préférences par tranche d'âge
+  ✓ batch_sentiment.py        — Sentiment par pays/plateforme
+
+Jobs Spark Stream (Temps réel) :
+  ✓ stream_activity_spikes.py — Détection de pics d'activité
+  ✓ stream_sentiment.py       — Surveillance sentiment par topic
+  ✓ stream_sessions_analysis.py — Analyse sessions temps réel [CRÉÉ]
+
+Kafka :
+  ✓ kafka_producer.py         — Producteur données (CSV → Kafka)
+
+Scripts auxiliaires :
+  ✓ upload_to_hdfs.sh         — Upload manuel HDFS
+  ✓ scripts/                  — Répertoire scripts
+
+Données & Résultats :
+  ✓ data/                     —  social_media_events.csv
+  ✓ results/                  — Créé automatiquement avec résultats
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ COMMENT DÉMARRER
+ÉTAPE 1 : Démarrage automatique 
+──────────────────────────────────────────
+Exécuter simplement :
+
+    chmod +x run_project.sh
+    ./run_project.sh
+
+Cela va automatiquement :
+  1. Vérifier prérequis ✓
+  2. Démarrer 13 conteneurs Docker ✓
+  3. Charger données dans HDFS ✓
+  4. Exécuter les 3 jobs batch ✓
+  5. Afficher instructions pour streaming ✓
+
+Durée : 5-20 minutes (selon volume données)
+
+ÉTAPE 2: Visualiser résultats
+────────────────────────────
+Accéder aux interfaces web :
+  • HDFS NameNode       : http://localhost:9870
+  • Spark Master        : http://localhost:8080
+  • Données batch       : ./results/batch_results/
+
+ÉTAPE 3 : Lancer streaming (optionnel)
+──────────────────────────────────────
+Pour analyses en temps réel, ouvrir 2 terminaux :
+
+Terminal A (Producteur) :
+    docker exec spark-master pip install kafka-python --quiet
+    docker exec spark-master python3 /spark_jobs/../kafka/kafka_producer.py
+
+Terminal B (Consumer) - choisir une analyse :
+    # Option 1 : Pics d'activité
+    docker exec spark-master spark-submit \
+      --master spark://spark-master:7077 \
+      --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 \
+      /spark_jobs/stream_activity_spikes.py
+
+    # Option 2 : Sentiment par topic
+    docker exec spark-master spark-submit \
+      --master spark://spark-master:7077 \
+      --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 \
+      /spark_jobs/stream_sentiment.py
+
+    # Option 3 : Analyse sessions
+    docker exec spark-master spark-submit \
+      --master spark://spark-master:7077 \
+      --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 \
+      /spark_jobs/stream_sessions_analysis.py
+
+ÉTAPE 4 : Arrêter
+────────────────
+Pour arrêter proprement :
+    ./cleanup.sh stop          # Arrêt (volumes conservés)
+    ./cleanup.sh clean         # Suppression complète
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ANALYSES IMPLÉMENTÉES
+
+BATCH (Traitement historique de toutes les données) :
+──────────────────────────────────────────────────
+1. ENGAGEMENT UTILISATEUR
+   Calcule pour chaque utilisateur :
+   • Nombre total d'actions
+   • Temps total passé (en heures)
+   • Nombre de sessions distinctes
+   • Sentiment moyen
+   • Score composite = (actions×0.3) + (temps×0.4) + (sessions×0.3)
+   → Sortie : Top 20 utilisateurs + statistiques globales
+
+2. PRÉFÉRENCES PAR TRANCHE D'ÂGE
+   Analyse différenciée par démographie :
+   • Plateforme préférée par âge (Instagram vs TikTok vs X, etc.)
+   • Thématique préférée (sports, music, news, gaming, etc.)
+   • Device utilisé (mobile, desktop, tablet)
+   • Répartition des actions par âge
+   → Sortie : Matrices croisées, comportements par groupe d'âge
+
+3. SENTIMENT PAR PAYS ET PLATEFORME
+   Tonalité globale des interactions :
+   • Sentiment moyen par pays (score -1 à +1)
+   • Sentiment par plateforme
+   • Distribution sentiment (-1 négatif / 0 neutre / +1 positif)
+   • Identification de « zones négatives »
+   • Ratio de positivité en % par région
+   → Sortie : Rankings, alertes, matrice croisée
+
+STREAM (Traitement temps réel au fur et à mesure) :
+──────────────────────────────────────────────────
+1. DÉTECTION DE PICS D'ACTIVITÉ
+   Fenêtre glissante (1 minute, glissement 30s) :
+   • Volume d'événements par plateforme
+   • Utilisateurs uniques dans la fenêtre
+   • Sentiment moyen en continu
+   → Détecte buzz et événements viraux
+
+2. SURVEILLANCE DU SENTIMENT PAR THÉMATIQUE
+   Fenêtre glissante (2 minutes, glissement 1 min) :
+   • Sentiment par topic (sports, music, news, etc.)
+   • Distribution positive/neutre/négative
+   • Alertes visuelles 🔴 <-0.2 | ⚪ neutre | 🟢 >+0.2
+   → Détecte crises de sentiment rapidement
+
+3. ANALYSE DES SESSIONS EN TEMPS RÉEL (3ème job ajouté)
+   Fenêtre glissante (5 minutes, glissement 1 min) :
+   • Métriques globales (sessions actives, utilisateurs, events)
+   • Top 5 utilisateurs les plus actifs
+   • Sessions très engagées (score > 5)
+   → Tracker l'engagement en direct
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ INFRASTRUCTURE
+
+Composants HDFS (Stockage distribué) :
+  • NameNode (Master)         Port : 9000, UI : 9870
+  • Secondary NameNode        Port : 9868
+  • DataNode 1                Port : 9864
+  • DataNode 2                Port : 9865
+
+Composants Spark (Traitement) :
+  • Spark Master              Port : 7077, UI : 8080
+  • Worker 1                  Port : 8081
+  • Worker 2                  Port : 8082
+  • Application UI (pendant job) : 4040
+
+Composants Kafka (Streaming) :
+  • Zookeeper                 Port : 2181
+  • Kafka Broker              Port : 9092
+
+Tous dans un seul réseau Docker pour communication facile.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ DOCUMENTATION
+
+
+1. README.md (Start here!)
+   • Vue d'ensemble
+   • Installation & démarrage
+   • Description 6 jobs
+   • Commandes utiles (50+)
+   • Troubleshooting
+
+2. RAPPORT.md (Rapport technique détaillé)
+   • Architecture générale avec diagrammes
+   • Description complète dataset
+   • Détails techniques chaque job
+   • Résultats typiques et insights
+   • Conclusions et perspectives
+
+3. PROJECT_STATUS.md
+   • Résumé livrables
+   • État du projet
+   
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ CHECKLIST LIVRABLE
+
+Demandes du cahier des charges :
+───────────────────────────────
+
+✓ Stocker données sur HDFS (NameNode + Secondary + 2 DataNodes)
+✓ Mise en place architecture Big Data distribuée
+✓ Docker (15 services, 6 volumes, configuration complète)
+✓ Choisir 3+ analyses (6 implémentées : 3 batch + 3 stream)
+
+Traitements batch implémentés :
+✓ Engagement utilisateur (historique)
+✓ Préférences par tranche d'âge
+✓ Sentiment moyen par pays et plateforme
+
+Traitements stream implémentés :
+✓ Détection de pic d'activité en temps réel
+✓ Analyse des sessions en temps réel
+✓ Surveillance du sentiment en temps réel par thématique
+
+Livrables :
+✓ Code source Spark (batch et stream) — 6 fichiers .py
+✓ docker-compose.yml — Infrastructure complète
+✓ Rapport technique — RAPPORT.md (15 pages)
+
+═══════════════════════════════════════════════════════════════════════════════
+

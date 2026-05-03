@@ -1,0 +1,38 @@
+name: projet-health
+
+services:
+  # Service 1 : Notre API d'Intelligence Artificielle
+  health-api:
+    image: esante-api:v1  # <--- AJOUT : tag explicite
+    build: .  # Construit l'image du Dockerfile
+    container_name: health-api  # Nom explicite du conteneur
+    ports:
+      - "8000:8000"  # Port Hôte : Port Conteneur
+    environment:
+      # C'est ici qu'on configure l'URL de la base.
+      # Notez le nom d'hôte "mongo-db" qui correspond au nom du service.
+      - MONGODB_URL=mongodb://mongo-db:27017
+    depends_on:
+      - mongo-db  # Attend que la BDD soit lancée
+    networks:
+      - health-network
+
+  # Service 2 : La Base de Données MongoDB
+  mongo-db:
+    image: mongo:7.0  # Image officielle MongoDB
+    container_name: health-mongodb
+    ports:
+      - "27016:27017"  # Pour inspecter la BDD depuis le PC
+    volumes:
+      - mongo_data:/data/db  # PERSISTANCE : volume nommé Docker
+    networks:
+      - health-network
+
+# Définition des volumes persistants
+volumes:
+  mongo_data:
+
+# Définition du réseau privé
+networks:
+  health-network:
+    driver: bridge

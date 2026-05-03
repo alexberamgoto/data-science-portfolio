@@ -1,0 +1,32 @@
+[Dialog3]
+Titre=Informations sur l'utilisateur
+User Name=UFR Mathématiques et informatique
+Company Name=Université Nancy 2
+[Dialog4]
+Titre=Type d'installation
+Type=Custom Install
+Mode=Client
+[Component List]
+PPCL=1
+PPXL_APP_VERC=1
+TR=1
+PPU_TOOLS=1
+PPU_DOCS=1
+PPU_TOURS=1
+PPU_SAMPLES_VERC=1
+ANDALEWT_WINFONT=1
+[Dialog5]
+Titre=Emplacement d'installation
+appPath=C:\Program Files\Cognos\cer2
+docPath=C:\Program Files\Cognos\cer2\Documentation
+tourPath=C:\Program Files\Cognos\cer2\Tour
+samplesPath=C:\Program Files\Cognos\cer2
+[Dialog6]
+Titre=Dossier des raccourcis
+APPFOLDER=Cognos EP Series 7
+VISIBLETOALL=0
+[Install Conditions]
+ReplaceReadOnlyFiles=1
+DeleteReadOnlyFiles=1
+RebootSystem=0
+UpdateReadOnlyIniFiles=1

@@ -1,0 +1,12 @@
+indicator,indicator_label,category,indicator_id
+SP.POP.TOTL,Population totale,Démographie,1
+SP.URB.TOTL.IN.ZS,Population urbaine (%),Démographie,2
+FS.AST.PRVT.GD.ZS,Crédit au secteur privé (% PIB),Finance,3
+SL.UEM.TOTL.FE.ZS,"Chômage (Femmes, %)",Genre & Emploi,4
+SL.UEM.TOTL.MA.ZS,"Chômage (Hommes, %)",Genre & Emploi,5
+SL.TLF.CACT.FE.ZS,"Participation au travail (Femmes, %)",Genre & Emploi,6
+SL.TLF.CACT.MA.ZS,"Participation au travail (Hommes, %)",Genre & Emploi,7
+NY.GDP.MKTP.KD.ZG,Croissance PIB réel (%),Macro,8
+FP.CPI.TOTL.ZG,"Inflation (IPC, %)",Macro,9
+NY.GDP.PCAP.CD,PIB/habitant (US$ courants),Macro,10
+SI.POV.DDAY,"Pauvreté extrême (2.15$/jour, %)",Social,11

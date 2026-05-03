@@ -1,0 +1,20 @@
+meta {
+  name: 14-connecter
+  type: http
+  seq: 14
+}
+
+get {
+  url: {{API_BASE}}users/me
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{access_token}}
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

@@ -1,0 +1,51 @@
+services:
+  namenode:
+    image: cjj2010/hadoop:3.3.6
+    container_name: namenode
+    hostname: hdfs-namenode
+    ports:
+      - "9870:9870"   # Interface web NameNode
+      - "8088:8088"   # Interface web YARN
+    command: >
+      bash -c "hdfs namenode & yarn resourcemanager"
+    environment:
+      - CLUSTER_NAME=hadoop-cluster
+
+  datanode1:
+    image: cjj2010/hadoop:3.3.6
+    container_name: datanode1
+    hostname: hdfs-datanode1
+    depends_on:
+      - namenode
+    command: >
+      bash -c "hdfs datanode & yarn nodemanager"
+
+  datanode2:
+    image: cjj2010/hadoop:3.3.6
+    container_name: datanode2
+    hostname: hdfs-datanode2
+    depends_on:
+      - namenode
+    command: >
+      bash -c "hdfs datanode & yarn nodemanager"
+
+  secondarynamenode:
+    image: cjj2010/hadoop:3.3.6
+    container_name: secondarynamenode
+    hostname: hdfs-secondarynamenode
+    depends_on:
+      - namenode
+    command: >
+      bash -c "hdfs secondarynamenode"
+
+  # Client HDFS pour interagir avec le cluster
+  hdfs-client:
+    image: cjj2010/hadoop:3.3.6
+    container_name: hdfs-client
+    hostname: hdfs-hdfs-client
+    depends_on:
+      - namenode
+    volumes:
+      - ./data:/data    # dossier local contenant purchases.txt
+      - ./core-site.xml:/opt/hadoop-3.3.6/etc/hadoop/core-site.xml:ro
+    command: tail -f /dev/null

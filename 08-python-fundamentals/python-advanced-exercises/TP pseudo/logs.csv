@@ -1,0 +1,855 @@
+﻿Heure;Nom complet de l’utilisateur;Utilisateur concerné;Contexte de l’événement;Composant;Nom de l’événement;Description;Origine
+4 déc. 25, 16:48:46;Abakar Senoussi;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:18:48;Abakar Senoussi;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:18:30;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+4 déc. 25, 14:17:57;Abakar Senoussi;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '440369' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:17:56;Abakar Senoussi;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '440369' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 13:37:52;Abakar Senoussi;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:37:49;Abakar Senoussi;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 13:37:38;Abakar Senoussi;Abakar Senoussi;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2290180' for the user with id '440369'.;web
+4 déc. 25, 13:37:38;Abakar Senoussi;Abakar Senoussi;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2290180' for the user with id '440369'.;web
+4 déc. 25, 13:37:38;Abakar Senoussi;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:37:23;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+4 déc. 25, 13:37:23;Abakar Senoussi;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 440369 took attendance with instanceid 4063;web
+4 déc. 25, 13:36:55;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+4 déc. 25, 13:36:52;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 16:10:09;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 16:04:19;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 14:48:10;Abakar Senoussi;Abakar Senoussi;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2289680' for the user with id '440369'.;web
+3 déc. 25, 14:48:10;Abakar Senoussi;Abakar Senoussi;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2289680' for the user with id '440369'.;web
+3 déc. 25, 14:48:10;Abakar Senoussi;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:48:05;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 13:38:26;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 13:38:09;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+3 déc. 25, 13:38:09;Abakar Senoussi;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 440369 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:46;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+3 déc. 25, 13:37:37;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+3 déc. 25, 13:37:28;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+2 déc. 25, 17:05:03;Abakar Senoussi;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2284118'.;web
+2 déc. 25, 17:04:50;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+27 nov. 25, 15:47:45;Abakar Senoussi;Abakar Senoussi;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2284123' for the user with id '440369'.;web
+27 nov. 25, 15:47:45;Abakar Senoussi;Abakar Senoussi;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2284123' for the user with id '440369'.;web
+27 nov. 25, 15:47:45;Abakar Senoussi;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:46:52;Abakar Senoussi;Abakar Senoussi;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2283815' for the user with id '440369'.;web
+27 nov. 25, 15:46:52;Abakar Senoussi;Abakar Senoussi;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2283815' for the user with id '440369'.;web
+27 nov. 25, 15:46:52;Abakar Senoussi;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 15:46:08;Abakar Senoussi;Abakar Senoussi;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2284118' for the user with id '440369'.;web
+27 nov. 25, 15:46:08;Abakar Senoussi;Abakar Senoussi;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2284118' for the user with id '440369'.;web
+27 nov. 25, 15:46:08;Abakar Senoussi;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2284118'.;web
+27 nov. 25, 15:45:41;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+27 nov. 25, 13:37:40;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+27 nov. 25, 13:37:40;Abakar Senoussi;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 440369 took attendance with instanceid 4063;web
+27 nov. 25, 13:37:40;Abakar Senoussi;Abakar Senoussi;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '440369' updated the grade with id '114618808' for the user with id '440369' for the grade item with id '397521'.;web
+27 nov. 25, 13:37:18;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+27 nov. 25, 13:37:14;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+27 nov. 25, 09:26:12;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:30;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:24;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:24;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:23;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:19;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:07:15;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:06:53;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 17:06:50;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 17:06:48;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '440369' viewed the list of users in the course with id '84646'.;web
+26 nov. 25, 17:06:45;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 17:06:22;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 15:43:09;Abakar Senoussi;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:56;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 14:21:31;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 14:21:18;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 14:21:10;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 14:15:03;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 14:14:59;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 14:13:42;Abakar Senoussi;Abakar Senoussi;Présence: Présence;Présence;Rapport de session consulté;User with id 440369 viewed attendance sessions for student with id 440369;web
+26 nov. 25, 14:11:38;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 10:04:38;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+26 nov. 25, 10:04:34;Abakar Senoussi;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '440369' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 09:41:02;Abakar Senoussi;Abakar Senoussi;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2280636' for the user with id '440369'.;web
+26 nov. 25, 09:41:02;Abakar Senoussi;Abakar Senoussi;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '440369' updated the completion state for the course module with id '2280636' for the user with id '440369'.;web
+26 nov. 25, 09:41:02;Abakar Senoussi;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '440369' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:40:51;Abakar Senoussi;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '440369' viewed the course with id '84646'.;web
+5 déc. 25, 09:11:26;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+4 déc. 25, 14:28:31;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:08;Bakraoui Hakima;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:15:04;Bakraoui Hakima;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2280636'.;web
+4 déc. 25, 14:14:57;Bakraoui Hakima;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2280636'.;web
+4 déc. 25, 14:14:46;Bakraoui Hakima;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '12476' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:14:46;Bakraoui Hakima;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '12476' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 14:14:40;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+4 déc. 25, 14:14:06;Bakraoui Hakima;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '12476' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:14:05;Bakraoui Hakima;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '12476' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 13:37:04;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+4 déc. 25, 13:37:04;Bakraoui Hakima;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 12476 took attendance with instanceid 4063;web
+4 déc. 25, 13:36:46;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+4 déc. 25, 13:36:44;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+4 déc. 25, 10:54:18;Bakraoui Hakima;Bakraoui Hakima;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2290180' for the user with id '12476'.;web
+4 déc. 25, 10:54:18;Bakraoui Hakima;Bakraoui Hakima;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2290180' for the user with id '12476'.;web
+4 déc. 25, 10:54:18;Bakraoui Hakima;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:54:11;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:43;Bakraoui Hakima;Bakraoui Hakima;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2289680' for the user with id '12476'.;web
+3 déc. 25, 14:47:43;Bakraoui Hakima;Bakraoui Hakima;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2289680' for the user with id '12476'.;web
+3 déc. 25, 14:47:43;Bakraoui Hakima;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:47:36;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:15;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+3 déc. 25, 14:47:08;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+3 déc. 25, 13:37:40;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+3 déc. 25, 13:37:40;Bakraoui Hakima;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 12476 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:27;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+3 déc. 25, 13:37:24;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+28 nov. 25, 09:29:17;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+27 nov. 25, 15:15:45;Bakraoui Hakima;Bakraoui Hakima;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2284123' for the user with id '12476'.;web
+27 nov. 25, 15:15:45;Bakraoui Hakima;Bakraoui Hakima;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2284123' for the user with id '12476'.;web
+27 nov. 25, 15:15:45;Bakraoui Hakima;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:15:37;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+27 nov. 25, 15:15:34;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+27 nov. 25, 13:35:13;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+27 nov. 25, 13:35:13;Bakraoui Hakima;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 12476 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:02;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+27 nov. 25, 13:35:00;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:14;Bakraoui Hakima;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:11;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:03;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+26 nov. 25, 15:42:03;Bakraoui Hakima;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 12476 took attendance with instanceid 4063;web
+26 nov. 25, 15:42:03;Bakraoui Hakima;Bakraoui Hakima;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '12476' updated the grade with id '114558878' for the user with id '12476' for the grade item with id '397521'.;web
+26 nov. 25, 15:41:49;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+26 nov. 25, 15:40:33;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:16;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:05;Bakraoui Hakima;Bakraoui Hakima;Présence: Présence;Présence;Rapport de session consulté;User with id 12476 viewed attendance sessions for student with id 12476;web
+26 nov. 25, 14:11:01;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+25 nov. 25, 18:58:16;Bakraoui Hakima;Bakraoui Hakima;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2280636' for the user with id '12476'.;web
+25 nov. 25, 18:58:16;Bakraoui Hakima;Bakraoui Hakima;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '12476' updated the completion state for the course module with id '2280636' for the user with id '12476'.;web
+25 nov. 25, 18:58:16;Bakraoui Hakima;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '12476' viewed the 'resource' activity with course module id '2280636'.;web
+25 nov. 25, 18:58:07;Bakraoui Hakima;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '12476' viewed the course with id '84646'.;web
+5 déc. 25, 16:24:56;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+5 déc. 25, 15:58:24;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+5 déc. 25, 15:58:09;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '441554' has viewed the submission status page for the assignment with course module id '2290181'.;web
+5 déc. 25, 15:58:09;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '441554' viewed the 'assign' activity with course module id '2290181'.;web
+5 déc. 25, 15:57:46;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2290180' for the user with id '441554'.;web
+5 déc. 25, 15:57:46;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2290180' for the user with id '441554'.;web
+5 déc. 25, 15:57:46;Beddy El Moustapha Sidi Teyib;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2290180'.;web
+5 déc. 25, 15:57:35;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+4 déc. 25, 10:02:12;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Cours: FC : Python avancée (2025-2026);Rapport du participant;Rapport d’évaluation utilisateur consulté;The user with id '441554' viewed the user report in the gradebook.;web
+4 déc. 25, 10:02:10;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '441554' viewed the list of users in the course with id '84646'.;web
+4 déc. 25, 10:01:48;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '441554' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:01:48;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '441554' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:01:40;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+4 déc. 25, 10:00:43;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '441554' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:00:43;Beddy El Moustapha Sidi Teyib;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '441554' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:00:08;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:42;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2289680' for the user with id '441554'.;web
+3 déc. 25, 14:47:42;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2289680' for the user with id '441554'.;web
+3 déc. 25, 14:47:42;Beddy El Moustapha Sidi Teyib;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:47:33;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+3 déc. 25, 13:40:35;Beddy El Moustapha Sidi Teyib;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 13:40:33;Beddy El Moustapha Sidi Teyib;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '441554' viewed the 'forum' activity with course module id '2280633'.;web
+3 déc. 25, 13:40:11;Beddy El Moustapha Sidi Teyib;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 13:39:38;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+3 déc. 25, 13:39:38;Beddy El Moustapha Sidi Teyib;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 441554 took attendance with instanceid 4063;web
+3 déc. 25, 13:39:17;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+3 déc. 25, 13:39:09;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+27 nov. 25, 15:21:20;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2284123' for the user with id '441554'.;web
+27 nov. 25, 15:21:20;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2284123' for the user with id '441554'.;web
+27 nov. 25, 15:21:20;Beddy El Moustapha Sidi Teyib;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:16:56;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+27 nov. 25, 13:37:14;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+27 nov. 25, 13:37:14;Beddy El Moustapha Sidi Teyib;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 441554 took attendance with instanceid 4063;web
+27 nov. 25, 13:36:57;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+27 nov. 25, 13:36:46;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+27 nov. 25, 09:53:59;Beddy El Moustapha Sidi Teyib;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 09:53:47;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:45;Beddy El Moustapha Sidi Teyib;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:39;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:47;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 14:19:59;Beddy El Moustapha Sidi Teyib;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 14:19:55;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 14:19:52;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 14:12:24;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:12:16;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:12:03;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:12:03;Beddy El Moustapha Sidi Teyib;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 441554 took attendance with instanceid 4063;web
+26 nov. 25, 14:12:03;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '441554' updated the grade with id '114555972' for the user with id '441554' for the grade item with id '397521'.;web
+26 nov. 25, 14:11:36;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:11:32;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:28;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:11:01;Beddy El Moustapha Sidi Teyib;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '441554' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 14:10:57;Beddy El Moustapha Sidi Teyib;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 14:10:47;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 14:10:45;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 11:31:06;Beddy El Moustapha Sidi Teyib;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 11:30:53;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 11:30:44;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 11:30:15;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 11:30:12;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 09:07:42;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2280636' for the user with id '441554'.;web
+26 nov. 25, 09:07:42;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '441554' updated the completion state for the course module with id '2280636' for the user with id '441554'.;web
+26 nov. 25, 09:07:42;Beddy El Moustapha Sidi Teyib;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '441554' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:07:29;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+26 nov. 25, 09:07:05;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 09:06:59;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 09:06:33;Beddy El Moustapha Sidi Teyib;Beddy El Moustapha Sidi Teyib;Présence: Présence;Présence;Rapport de session consulté;User with id 441554 viewed attendance sessions for student with id 441554;web
+26 nov. 25, 09:06:29;Beddy El Moustapha Sidi Teyib;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '441554' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 09:06:18;Beddy El Moustapha Sidi Teyib;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '441554' viewed the course with id '84646'.;web
+5 déc. 25, 11:44:38;Belhareth Yassin;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2290180'.;web
+5 déc. 25, 09:53:23;Belhareth Yassin;Belhareth Yassin;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2290180' for the user with id '439874'.;web
+5 déc. 25, 09:53:23;Belhareth Yassin;Belhareth Yassin;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2290180' for the user with id '439874'.;web
+5 déc. 25, 09:53:23;Belhareth Yassin;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2290180'.;web
+5 déc. 25, 09:53:10;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+4 déc. 25, 15:59:42;Belhareth Yassin;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 15:59:33;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+4 déc. 25, 15:58:48;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+4 déc. 25, 15:56:51;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+4 déc. 25, 15:56:51;Belhareth Yassin;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439874 took attendance with instanceid 4063;web
+4 déc. 25, 15:56:51;Belhareth Yassin;Belhareth Yassin;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '439874' updated the grade with id '114556042' for the user with id '439874' for the grade item with id '397521'.;web
+4 déc. 25, 15:56:32;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+4 déc. 25, 15:56:27;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:30;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:07;Belhareth Yassin;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2280636'.;web
+3 déc. 25, 16:02:55;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+3 déc. 25, 14:53:53;Belhareth Yassin;Belhareth Yassin;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2289680' for the user with id '439874'.;web
+3 déc. 25, 14:53:53;Belhareth Yassin;Belhareth Yassin;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2289680' for the user with id '439874'.;web
+3 déc. 25, 14:53:53;Belhareth Yassin;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:53:42;Belhareth Yassin;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '439874' viewed the 'forum' activity with course module id '2280633'.;web
+3 déc. 25, 14:53:39;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+3 déc. 25, 14:53:33;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+3 déc. 25, 13:39:34;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+3 déc. 25, 13:39:34;Belhareth Yassin;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439874 took attendance with instanceid 4063;web
+3 déc. 25, 13:39:04;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+3 déc. 25, 13:38:31;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+3 déc. 25, 13:37:53;Belhareth Yassin;Belhareth Yassin;Cours: FC : Python avancée (2025-2026);Rapport du participant;Rapport d’évaluation utilisateur consulté;The user with id '439874' viewed the user report in the gradebook.;web
+3 déc. 25, 13:37:50;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '439874' viewed the list of users in the course with id '84646'.;web
+3 déc. 25, 13:37:39;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+27 nov. 25, 15:57:25;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+27 nov. 25, 15:56:35;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Visites guidées;Visite guidée terminée;The user with id '439874' has ended the tour with id '24' at step index '0' (id '138') on the page with URL 'https://arche.univ-lorraine.fr/user/index.php?id=84646'.;web
+27 nov. 25, 15:56:35;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Visites guidées;Visite guidée commencée;The user with id '439874' has started the tour with id '24' on the page with URL 'https://arche.univ-lorraine.fr/user/index.php?id=84646'.;web
+27 nov. 25, 15:56:34;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '439874' viewed the list of users in the course with id '84646'.;web
+27 nov. 25, 15:56:25;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+27 nov. 25, 15:30:15;Belhareth Yassin;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 15:30:06;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+27 nov. 25, 14:13:30;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+27 nov. 25, 13:45:11;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+27 nov. 25, 13:45:11;Belhareth Yassin;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439874 took attendance with instanceid 4063;web
+27 nov. 25, 13:44:42;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+27 nov. 25, 13:44:37;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+26 nov. 25, 15:43:20;Belhareth Yassin;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:43:14;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:52;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+26 nov. 25, 14:14:01;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+26 nov. 25, 14:14:01;Belhareth Yassin;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439874 took attendance with instanceid 4063;web
+26 nov. 25, 14:14:01;Belhareth Yassin;Belhareth Yassin;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '439874' updated the grade with id '114556042' for the user with id '439874' for the grade item with id '397521'.;web
+26 nov. 25, 14:12:58;Belhareth Yassin;Belhareth Yassin;Présence: Présence;Présence;Rapport de session consulté;User with id 439874 viewed attendance sessions for student with id 439874;web
+26 nov. 25, 14:12:53;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+26 nov. 25, 13:44:23;Belhareth Yassin;Belhareth Yassin;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2280636' for the user with id '439874'.;web
+26 nov. 25, 13:44:23;Belhareth Yassin;Belhareth Yassin;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439874' updated the completion state for the course module with id '2280636' for the user with id '439874'.;web
+26 nov. 25, 13:44:23;Belhareth Yassin;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439874' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 13:44:13;Belhareth Yassin;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439874' viewed the course with id '84646'.;web
+5 déc. 25, 14:31:17;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:57;Djekounmian Alexis;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:15:19;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 13:37:07;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+4 déc. 25, 13:37:07;Djekounmian Alexis;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 382703 took attendance with instanceid 4063;web
+4 déc. 25, 13:36:49;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+4 déc. 25, 13:36:43;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 12:23:15;Djekounmian Alexis;Djekounmian Alexis;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2290180' for the user with id '382703'.;web
+4 déc. 25, 12:23:15;Djekounmian Alexis;Djekounmian Alexis;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2290180' for the user with id '382703'.;web
+4 déc. 25, 12:23:15;Djekounmian Alexis;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 12:23:07;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 11:52:41;Djekounmian Alexis;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 11:52:35;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 11:51:00;Djekounmian Alexis;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 11:41:04;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:05;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+3 déc. 25, 14:48:25;Djekounmian Alexis;Djekounmian Alexis;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2289680' for the user with id '382703'.;web
+3 déc. 25, 14:48:25;Djekounmian Alexis;Djekounmian Alexis;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2289680' for the user with id '382703'.;web
+3 déc. 25, 14:48:25;Djekounmian Alexis;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:48:20;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+3 déc. 25, 14:48:10;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+3 déc. 25, 13:37:57;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+3 déc. 25, 13:37:57;Djekounmian Alexis;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 382703 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:37;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+3 déc. 25, 13:37:30;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+3 déc. 25, 12:31:11;Djekounmian Alexis;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 12:30:56;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+2 déc. 25, 10:45:21;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+27 nov. 25, 16:31:57;Djekounmian Alexis;Djekounmian Alexis;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2284123' for the user with id '382703'.;web
+27 nov. 25, 16:31:57;Djekounmian Alexis;Djekounmian Alexis;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2284123' for the user with id '382703'.;web
+27 nov. 25, 16:31:57;Djekounmian Alexis;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 16:31:42;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:13;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+27 nov. 25, 13:36:08;Djekounmian Alexis;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '382703' viewed the 'forum' activity with course module id '2280633'.;web
+27 nov. 25, 13:35:48;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+27 nov. 25, 13:35:43;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+27 nov. 25, 13:35:22;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+27 nov. 25, 13:35:22;Djekounmian Alexis;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 382703 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:04;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+27 nov. 25, 13:17:03;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+27 nov. 25, 13:16:58;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+27 nov. 25, 10:11:33;Djekounmian Alexis;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '382703' viewed the 'forum' activity with course module id '2280633'.;web
+27 nov. 25, 10:02:28;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+26 nov. 25, 17:12:09;Djekounmian Alexis;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '382703' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 17:11:55;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+26 nov. 25, 15:43:09;Djekounmian Alexis;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:39;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:04;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+26 nov. 25, 15:02:14;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+26 nov. 25, 14:12:24;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+26 nov. 25, 14:12:20;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+26 nov. 25, 14:12:05;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+26 nov. 25, 14:12:05;Djekounmian Alexis;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 382703 took attendance with instanceid 4063;web
+26 nov. 25, 14:12:05;Djekounmian Alexis;Djekounmian Alexis;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '382703' updated the grade with id '114555974' for the user with id '382703' for the grade item with id '397521'.;web
+26 nov. 25, 14:11:27;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+26 nov. 25, 14:11:19;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+25 nov. 25, 19:18:14;Djekounmian Alexis;Djekounmian Alexis;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2280636' for the user with id '382703'.;web
+25 nov. 25, 19:18:14;Djekounmian Alexis;Djekounmian Alexis;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '382703' updated the completion state for the course module with id '2280636' for the user with id '382703'.;web
+25 nov. 25, 19:18:14;Djekounmian Alexis;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '382703' viewed the 'resource' activity with course module id '2280636'.;web
+25 nov. 25, 19:18:07;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+25 nov. 25, 19:17:39;Djekounmian Alexis;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '382703' viewed the 'forum' activity with course module id '2280633'.;web
+25 nov. 25, 19:17:20;Djekounmian Alexis;Djekounmian Alexis;Présence: Présence;Présence;Rapport de session consulté;User with id 382703 viewed attendance sessions for student with id 382703;web
+25 nov. 25, 19:17:10;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+25 nov. 25, 19:17:06;Djekounmian Alexis;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '382703' viewed the 'forum' activity with course module id '2280633'.;web
+25 nov. 25, 19:16:58;Djekounmian Alexis;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '382703' viewed the course with id '84646'.;web
+4 déc. 25, 15:04:22;Eloyan Narek;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 15:04:17;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 14:06:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '153706' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:06:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 14:06:18;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Travail de devoir remis;The user with id '153706' has submitted the submission with id '5466792' for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:06:18;Eloyan Narek;Eloyan Narek;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Travail de devoir modifié;The user with id '153706' updated a file submission and uploaded '1' file/s in the assignment with course module id '2290181'.;web
+4 déc. 25, 14:06:18;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Fichier déposé;The user with id '153706' has uploaded a file to the submission with id '5466792' in the assignment activity with course module id '2290181'.;web
+4 déc. 25, 14:06:17;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 14:05:27;Eloyan Narek;Eloyan Narek;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Formulaire de remise consulté;The user with id '153706' viewed their submission for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:05:27;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 14:05:22;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '153706' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 14:05:22;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 14:05:19;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 13:37:19;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+4 déc. 25, 13:37:19;Eloyan Narek;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 153706 took attendance with instanceid 4063;web
+4 déc. 25, 13:37:08;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+4 déc. 25, 13:37:01;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 12:33:30;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 12:33:26;Eloyan Narek;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2282713'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '153706' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Travail de devoir remis;The user with id '153706' has submitted the submission with id '5466792' for the assignment with course module id '2290181'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;Eloyan Narek;Devoir: Espace de dépôt du TP Pendu/Tkinter;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2290181' for the user with id '153706'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;Eloyan Narek;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Travail de devoir créé;The user with id '153706' created a file submission and uploaded '1' file/s in the assignment with course module id '2290181'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Fichier déposé;The user with id '153706' has uploaded a file to the submission with id '5466792' in the assignment activity with course module id '2290181'.;web
+4 déc. 25, 12:33:19;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 12:33:11;Eloyan Narek;Eloyan Narek;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Formulaire de remise consulté;The user with id '153706' viewed their submission for the assignment with course module id '2290181'.;web
+4 déc. 25, 12:33:11;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 12:33:09;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '153706' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 12:33:09;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:17:18;Eloyan Narek;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 10:16:53;Eloyan Narek;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:16:50;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 10:16:47;Eloyan Narek;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:16:32;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 10:16:25;Eloyan Narek;Eloyan Narek;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2290180' for the user with id '153706'.;web
+4 déc. 25, 10:16:25;Eloyan Narek;Eloyan Narek;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2290180' for the user with id '153706'.;web
+4 déc. 25, 10:16:25;Eloyan Narek;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:08:34;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '153706' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:08:34;Eloyan Narek;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '153706' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:08:27;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+3 déc. 25, 14:54:55;Eloyan Narek;Eloyan Narek;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2289680' for the user with id '153706'.;web
+3 déc. 25, 14:54:55;Eloyan Narek;Eloyan Narek;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2289680' for the user with id '153706'.;web
+3 déc. 25, 14:54:55;Eloyan Narek;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:54:52;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+3 déc. 25, 14:51:43;Eloyan Narek;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 14:51:40;Eloyan Narek;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2282713'.;web
+3 déc. 25, 14:51:38;Eloyan Narek;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 14:50:42;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+3 déc. 25, 14:50:36;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+3 déc. 25, 13:39:11;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+3 déc. 25, 13:39:10;Eloyan Narek;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 153706 took attendance with instanceid 4063;web
+3 déc. 25, 13:38:53;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+3 déc. 25, 13:38:51;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+27 nov. 25, 16:56:15;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+27 nov. 25, 16:34:45;Eloyan Narek;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 16:34:32;Eloyan Narek;Eloyan Narek;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2280636' for the user with id '153706'.;web
+27 nov. 25, 16:34:32;Eloyan Narek;Eloyan Narek;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2280636' for the user with id '153706'.;web
+27 nov. 25, 16:34:32;Eloyan Narek;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 16:34:13;Eloyan Narek;Eloyan Narek;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2284118' for the user with id '153706'.;web
+27 nov. 25, 16:34:13;Eloyan Narek;Eloyan Narek;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2284118' for the user with id '153706'.;web
+27 nov. 25, 16:34:13;Eloyan Narek;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2284118'.;web
+27 nov. 25, 16:33:40;Eloyan Narek;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 16:33:37;Eloyan Narek;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 16:33:34;Eloyan Narek;Eloyan Narek;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2284123' for the user with id '153706'.;web
+27 nov. 25, 16:33:34;Eloyan Narek;Eloyan Narek;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2284123' for the user with id '153706'.;web
+27 nov. 25, 16:33:34;Eloyan Narek;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 16:33:28;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:25;Eloyan Narek;Eloyan Narek;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2283815' for the user with id '153706'.;web
+27 nov. 25, 13:36:25;Eloyan Narek;Eloyan Narek;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '153706' updated the completion state for the course module with id '2283815' for the user with id '153706'.;web
+27 nov. 25, 13:36:25;Eloyan Narek;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 13:36:08;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+27 nov. 25, 13:36:08;Eloyan Narek;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 153706 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:55;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+27 nov. 25, 13:35:50;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+26 nov. 25, 15:48:04;Eloyan Narek;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '153706' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:47:58;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:57;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+26 nov. 25, 14:11:39;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+26 nov. 25, 14:11:38;Eloyan Narek;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 153706 took attendance with instanceid 4063;web
+26 nov. 25, 14:11:38;Eloyan Narek;Eloyan Narek;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '153706' updated the grade with id '114555769' for the user with id '153706' for the grade item with id '397521'.;web
+26 nov. 25, 14:11:07;Eloyan Narek;Eloyan Narek;Présence: Présence;Présence;Rapport de session consulté;User with id 153706 viewed attendance sessions for student with id 153706;web
+26 nov. 25, 14:10:59;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+26 nov. 25, 14:10:56;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '153706' viewed the list of users in the course with id '84646'.;web
+26 nov. 25, 14:10:41;Eloyan Narek;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '153706' viewed the course with id '84646'.;web
+4 déc. 25, 14:18:18;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 14:16:40;Ilhan Fatma;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:16:35;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 13:56:19;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 13:56:12;Ilhan Fatma;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '232380' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 13:56:11;Ilhan Fatma;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '232380' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 13:44:38;Ilhan Fatma;Ilhan Fatma;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2290180' for the user with id '232380'.;web
+4 déc. 25, 13:44:38;Ilhan Fatma;Ilhan Fatma;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2290180' for the user with id '232380'.;web
+4 déc. 25, 13:44:38;Ilhan Fatma;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:42:52;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 13:42:48;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+4 déc. 25, 13:42:46;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 13:42:40;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+4 déc. 25, 13:42:40;Ilhan Fatma;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 232380 took attendance with instanceid 4063;web
+4 déc. 25, 13:42:25;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+4 déc. 25, 13:42:21;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 10:54:10;Ilhan Fatma;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 10:54:04;Ilhan Fatma;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 10:53:58;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+3 déc. 25, 14:59:14;Ilhan Fatma;Ilhan Fatma;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2289680' for the user with id '232380'.;web
+3 déc. 25, 14:59:14;Ilhan Fatma;Ilhan Fatma;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2289680' for the user with id '232380'.;web
+3 déc. 25, 14:59:14;Ilhan Fatma;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:59:09;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+3 déc. 25, 13:44:27;Ilhan Fatma;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 13:44:18;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+3 déc. 25, 13:37:54;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+3 déc. 25, 13:37:54;Ilhan Fatma;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 232380 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:38;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+3 déc. 25, 13:37:35;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+27 nov. 25, 16:38:24;Ilhan Fatma;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:45:05;Ilhan Fatma;Ilhan Fatma;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2284123' for the user with id '232380'.;web
+27 nov. 25, 15:45:05;Ilhan Fatma;Ilhan Fatma;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2284123' for the user with id '232380'.;web
+27 nov. 25, 15:45:05;Ilhan Fatma;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:35:22;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+27 nov. 25, 15:02:47;Ilhan Fatma;Ilhan Fatma;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2283815' for the user with id '232380'.;web
+27 nov. 25, 15:02:47;Ilhan Fatma;Ilhan Fatma;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2283815' for the user with id '232380'.;web
+27 nov. 25, 15:02:47;Ilhan Fatma;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 15:02:42;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+27 nov. 25, 14:03:20;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+27 nov. 25, 14:03:17;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+27 nov. 25, 13:35:58;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+27 nov. 25, 13:35:58;Ilhan Fatma;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 232380 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:44;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+27 nov. 25, 13:35:43;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 16:33:31;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:37;Ilhan Fatma;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:19;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:16;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:11;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:41;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 15:36:26;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 14:26:42;Ilhan Fatma;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 14:26:39;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 14:22:52;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+26 nov. 25, 14:22:52;Ilhan Fatma;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 232380 took attendance with instanceid 4063;web
+26 nov. 25, 14:22:52;Ilhan Fatma;Ilhan Fatma;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '232380' updated the grade with id '114556121' for the user with id '232380' for the grade item with id '397521'.;web
+26 nov. 25, 14:22:40;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+26 nov. 25, 14:14:22;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+26 nov. 25, 14:10:19;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+26 nov. 25, 13:43:04;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+25 nov. 25, 18:57:52;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '232380' viewed the list of users in the course with id '84646'.;web
+25 nov. 25, 18:57:40;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+25 nov. 25, 18:52:07;Ilhan Fatma;Ilhan Fatma;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2280636' for the user with id '232380'.;web
+25 nov. 25, 18:52:07;Ilhan Fatma;Ilhan Fatma;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '232380' updated the completion state for the course module with id '2280636' for the user with id '232380'.;web
+25 nov. 25, 18:52:07;Ilhan Fatma;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '232380' viewed the 'resource' activity with course module id '2280636'.;web
+25 nov. 25, 18:52:05;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+25 nov. 25, 18:52:02;Ilhan Fatma;Ilhan Fatma;Présence: Présence;Présence;Rapport de session consulté;User with id 232380 viewed attendance sessions for student with id 232380;web
+25 nov. 25, 18:51:58;Ilhan Fatma;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '232380' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:45;Joly Frederic;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:15:39;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:37;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+4 déc. 25, 13:37:22;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+4 déc. 25, 13:37:20;Joly Frederic;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439171 took attendance with instanceid 4063;web
+4 déc. 25, 13:37:05;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+4 déc. 25, 13:36:57;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+4 déc. 25, 10:17:37;Joly Frederic;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:17:35;Joly Frederic;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 10:02:26;Joly Frederic;Joly Frederic;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2290180' for the user with id '439171'.;web
+4 déc. 25, 10:02:26;Joly Frederic;Joly Frederic;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2290180' for the user with id '439171'.;web
+4 déc. 25, 10:02:26;Joly Frederic;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:02:11;Joly Frederic;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '439171' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:02:11;Joly Frederic;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439171' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:01:57;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:28;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:41;Joly Frederic;Joly Frederic;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2289680' for the user with id '439171'.;web
+3 déc. 25, 14:47:41;Joly Frederic;Joly Frederic;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2289680' for the user with id '439171'.;web
+3 déc. 25, 14:47:41;Joly Frederic;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:47:37;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+3 déc. 25, 13:38:11;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+3 déc. 25, 13:38:11;Joly Frederic;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439171 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:57;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+3 déc. 25, 13:37:55;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+3 déc. 25, 13:37:31;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+3 déc. 25, 12:39:19;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+3 déc. 25, 11:30:41;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+3 déc. 25, 11:30:38;Joly Frederic;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2280636'.;web
+3 déc. 25, 11:15:27;Joly Frederic;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2282713'.;web
+3 déc. 25, 11:13:26;Joly Frederic;Joly Frederic;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2284123' for the user with id '439171'.;web
+3 déc. 25, 11:13:26;Joly Frederic;Joly Frederic;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2284123' for the user with id '439171'.;web
+3 déc. 25, 11:13:26;Joly Frederic;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 11:13:04;Joly Frederic;Joly Frederic;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2284118' for the user with id '439171'.;web
+3 déc. 25, 11:13:04;Joly Frederic;Joly Frederic;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2284118' for the user with id '439171'.;web
+3 déc. 25, 11:13:04;Joly Frederic;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2284118'.;web
+3 déc. 25, 11:12:51;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+27 nov. 25, 13:35:49;Joly Frederic;Joly Frederic;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2283815' for the user with id '439171'.;web
+27 nov. 25, 13:35:49;Joly Frederic;Joly Frederic;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2283815' for the user with id '439171'.;web
+27 nov. 25, 13:35:49;Joly Frederic;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 13:35:43;Joly Frederic;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 13:35:20;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+27 nov. 25, 13:35:20;Joly Frederic;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439171 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:08;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+27 nov. 25, 13:33:54;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+26 nov. 25, 15:43:13;Joly Frederic;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:43:10;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+26 nov. 25, 14:14:22;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:31;Joly Frederic;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '439171' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 14:11:30;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+26 nov. 25, 14:11:28;Joly Frederic;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 14:11:16;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+26 nov. 25, 14:11:16;Joly Frederic;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439171 took attendance with instanceid 4063;web
+26 nov. 25, 14:11:16;Joly Frederic;Joly Frederic;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '439171' updated the grade with id '114555621' for the user with id '439171' for the grade item with id '397521'.;web
+26 nov. 25, 14:10:47;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+26 nov. 25, 14:10:43;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+26 nov. 25, 09:14:41;Joly Frederic;Joly Frederic;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2280636' for the user with id '439171'.;web
+26 nov. 25, 09:14:41;Joly Frederic;Joly Frederic;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439171' updated the completion state for the course module with id '2280636' for the user with id '439171'.;web
+26 nov. 25, 09:14:41;Joly Frederic;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439171' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:14:31;Joly Frederic;Joly Frederic;Présence: Présence;Présence;Rapport de session consulté;User with id 439171 viewed attendance sessions for student with id 439171;web
+26 nov. 25, 09:14:29;Joly Frederic;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '439171' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 09:14:25;Joly Frederic;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439171' viewed the course with id '84646'.;web
+5 déc. 25, 14:14:17;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '439452' has viewed the submission status page for the assignment with course module id '2290181'.;web
+5 déc. 25, 14:14:17;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+5 déc. 25, 11:51:22;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 20:54:28;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '439452' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 20:54:28;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 20:54:21;Klein Valerie;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 20:54:16;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '439452' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 20:54:16;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 20:54:16;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Travail de devoir remis;The user with id '439452' has submitted the submission with id '5469598' for the assignment with course module id '2290181'.;web
+4 déc. 25, 20:54:16;Klein Valerie;Klein Valerie;Devoir: Espace de dépôt du TP Pendu/Tkinter;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2290181' for the user with id '439452'.;web
+4 déc. 25, 20:54:16;Klein Valerie;Klein Valerie;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Travail de devoir créé;The user with id '439452' created a file submission and uploaded '1' file/s in the assignment with course module id '2290181'.;web
+4 déc. 25, 20:54:16;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Remises de fichiers;Fichier déposé;The user with id '439452' has uploaded a file to the submission with id '5469598' in the assignment activity with course module id '2290181'.;web
+4 déc. 25, 20:54:16;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 20:53:31;Klein Valerie;Klein Valerie;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Formulaire de remise consulté;The user with id '439452' viewed their submission for the assignment with course module id '2290181'.;web
+4 déc. 25, 20:53:31;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 20:47:59;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '439452' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 20:47:59;Klein Valerie;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '439452' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 20:47:44;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:35;Klein Valerie;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:15:21;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 13:56:50;Klein Valerie;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:56:24;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 13:56:20;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+4 déc. 25, 13:36:59;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+4 déc. 25, 13:36:59;Klein Valerie;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439452 took attendance with instanceid 4063;web
+4 déc. 25, 13:36:41;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+4 déc. 25, 13:28:19;Klein Valerie;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:27:51;Klein Valerie;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 13:27:14;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 10:32:00;Klein Valerie;Klein Valerie;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2290180' for the user with id '439452'.;web
+4 déc. 25, 10:32:00;Klein Valerie;Klein Valerie;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2290180' for the user with id '439452'.;web
+4 déc. 25, 10:32:00;Klein Valerie;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:31:55;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 08:54:11;Klein Valerie;Klein Valerie;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2289680' for the user with id '439452'.;web
+4 déc. 25, 08:54:11;Klein Valerie;Klein Valerie;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2289680' for the user with id '439452'.;web
+4 déc. 25, 08:54:11;Klein Valerie;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 16:03:27;Klein Valerie;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2280636'.;web
+3 déc. 25, 16:03:22;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+3 déc. 25, 13:38:21;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+3 déc. 25, 13:38:21;Klein Valerie;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439452 took attendance with instanceid 4063;web
+3 déc. 25, 13:38:01;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+3 déc. 25, 13:37:49;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+27 nov. 25, 19:17:08;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+27 nov. 25, 19:16:58;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+27 nov. 25, 17:38:19;Klein Valerie;Klein Valerie;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2284123' for the user with id '439452'.;web
+27 nov. 25, 17:38:19;Klein Valerie;Klein Valerie;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2284123' for the user with id '439452'.;web
+27 nov. 25, 17:38:19;Klein Valerie;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 17:38:03;Klein Valerie;Klein Valerie;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2284118' for the user with id '439452'.;web
+27 nov. 25, 17:38:03;Klein Valerie;Klein Valerie;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2284118' for the user with id '439452'.;web
+27 nov. 25, 17:38:03;Klein Valerie;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2284118'.;web
+27 nov. 25, 17:37:47;Klein Valerie;Klein Valerie;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2283815' for the user with id '439452'.;web
+27 nov. 25, 17:37:47;Klein Valerie;Klein Valerie;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2283815' for the user with id '439452'.;web
+27 nov. 25, 17:37:47;Klein Valerie;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 17:37:30;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:47;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+27 nov. 25, 13:36:47;Klein Valerie;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439452 took attendance with instanceid 4063;web
+27 nov. 25, 13:36:47;Klein Valerie;Klein Valerie;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '439452' updated the grade with id '114618805' for the user with id '439452' for the grade item with id '397521'.;web
+27 nov. 25, 13:31:48;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+27 nov. 25, 13:31:43;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 18:09:55;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+26 nov. 25, 18:09:48;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 18:09:39;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+26 nov. 25, 17:07:03;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+26 nov. 25, 17:07:01;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:33;Klein Valerie;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:28;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:41;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:00;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 14:10:10;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+26 nov. 25, 14:09:27;Klein Valerie;Klein Valerie;Présence: Présence;Présence;Rapport de session consulté;User with id 439452 viewed attendance sessions for student with id 439452;web
+26 nov. 25, 14:09:17;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+26 nov. 25, 10:02:28;Klein Valerie;Klein Valerie;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2280636' for the user with id '439452'.;web
+26 nov. 25, 10:02:28;Klein Valerie;Klein Valerie;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439452' updated the completion state for the course module with id '2280636' for the user with id '439452'.;web
+26 nov. 25, 10:02:28;Klein Valerie;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439452' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 10:02:24;Klein Valerie;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439452' viewed the course with id '84646'.;web
+4 déc. 25, 16:29:43;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:16:27;Mahmood Sabah Noori Mahmood;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:16:19;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:14:04;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:14:00;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:13:56;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:13:30;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:06:03;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 14:05:58;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+4 déc. 25, 13:39:56;Mahmood Sabah Noori Mahmood;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:38:40;Mahmood Sabah Noori Mahmood;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:38:29;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 13:38:17;Mahmood Sabah Noori Mahmood;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2280636'.;web
+4 déc. 25, 13:38:11;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+4 déc. 25, 13:38:10;Mahmood Sabah Noori Mahmood;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 137640 took attendance with instanceid 4063;web
+4 déc. 25, 13:37:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+4 déc. 25, 13:37:45;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 13:36:52;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '137640' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 13:36:52;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '137640' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:04:50;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '137640' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:04:50;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '137640' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:04:46;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 10:04:29;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '137640' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 10:04:28;Mahmood Sabah Noori Mahmood;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '137640' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 10:04:19;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+4 déc. 25, 10:02:05;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2290180' for the user with id '137640'.;web
+4 déc. 25, 10:02:05;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2290180' for the user with id '137640'.;web
+4 déc. 25, 10:02:05;Mahmood Sabah Noori Mahmood;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:01:47;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:47;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 16:03:19;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 15:09:11;Mahmood Sabah Noori Mahmood;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 15:09:04;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 14:48:59;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2289680' for the user with id '137640'.;web
+3 déc. 25, 14:48:59;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2289680' for the user with id '137640'.;web
+3 déc. 25, 14:48:59;Mahmood Sabah Noori Mahmood;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:48:45;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 13:37:59;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+3 déc. 25, 13:37:59;Mahmood Sabah Noori Mahmood;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 137640 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:22;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+3 déc. 25, 13:29:29;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+3 déc. 25, 13:28:57;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 12:38:04;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 11:09:17;Mahmood Sabah Noori Mahmood;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2283815'.;web
+3 déc. 25, 11:07:22;Mahmood Sabah Noori Mahmood;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2282713'.;web
+3 déc. 25, 11:07:05;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+3 déc. 25, 11:06:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2284123' for the user with id '137640'.;web
+3 déc. 25, 11:06:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2284123' for the user with id '137640'.;web
+3 déc. 25, 11:06:53;Mahmood Sabah Noori Mahmood;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2284123'.;web
+3 déc. 25, 11:06:16;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2284118' for the user with id '137640'.;web
+3 déc. 25, 11:06:16;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2284118' for the user with id '137640'.;web
+3 déc. 25, 11:06:16;Mahmood Sabah Noori Mahmood;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2284118'.;web
+3 déc. 25, 11:05:51;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:28:53;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:28:50;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '137640' viewed the list of users in the course with id '84646'.;web
+27 nov. 25, 14:28:42;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:26;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:26;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:26;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:25;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:25;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:25;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 14:17:10;Mahmood Sabah Noori Mahmood;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 14:16:55;Mahmood Sabah Noori Mahmood;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2282713'.;web
+27 nov. 25, 14:16:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2283815' for the user with id '137640'.;web
+27 nov. 25, 14:16:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2283815' for the user with id '137640'.;web
+27 nov. 25, 14:16:53;Mahmood Sabah Noori Mahmood;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 14:16:48;Mahmood Sabah Noori Mahmood;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 13:35:15;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+27 nov. 25, 13:35:15;Mahmood Sabah Noori Mahmood;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 137640 took attendance with instanceid 4063;web
+27 nov. 25, 13:34:56;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+27 nov. 25, 13:26:31;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+27 nov. 25, 13:26:29;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 13:26:25;Mahmood Sabah Noori Mahmood;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '137640' viewed the 'forum' activity with course module id '2280633'.;web
+27 nov. 25, 13:26:20;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+27 nov. 25, 13:22:21;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:28;Mahmood Sabah Noori Mahmood;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:19;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:38;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:34;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:24;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 14:22:16;Mahmood Sabah Noori Mahmood;Roussanaly Azim;Cours: FC : Python avancée (2025-2026);Système;Profil utilisateur consulté;The user with id '137640' viewed the profile for the user with id '65146' in the course with id '84646'.;web
+26 nov. 25, 14:21:59;Mahmood Sabah Noori Mahmood;Roussanaly Azim;Cours: FC : Python avancée (2025-2026);Système;Profil utilisateur consulté;The user with id '137640' viewed the profile for the user with id '65146' in the course with id '84646'.;web
+26 nov. 25, 14:21:41;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '137640' viewed the list of users in the course with id '84646'.;web
+26 nov. 25, 14:20:07;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 14:14:45;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 14:10:53;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+26 nov. 25, 14:10:52;Mahmood Sabah Noori Mahmood;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 137640 took attendance with instanceid 4063;web
+26 nov. 25, 14:10:52;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '137640' updated the grade with id '114554568' for the user with id '137640' for the grade item with id '397521'.;web
+26 nov. 25, 14:10:26;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+26 nov. 25, 13:38:50;Mahmood Sabah Noori Mahmood;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 13:38:34;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+26 nov. 25, 13:38:26;Mahmood Sabah Noori Mahmood;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '137640' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 13:38:03;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 09:36:58;Mahmood Sabah Noori Mahmood;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:36:55;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 09:36:44;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2280636' for the user with id '137640'.;web
+26 nov. 25, 09:36:44;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '137640' updated the completion state for the course module with id '2280636' for the user with id '137640'.;web
+26 nov. 25, 09:36:44;Mahmood Sabah Noori Mahmood;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '137640' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:36:15;Mahmood Sabah Noori Mahmood;Mahmood Sabah Noori Mahmood;Présence: Présence;Présence;Rapport de session consulté;User with id 137640 viewed attendance sessions for student with id 137640;web
+26 nov. 25, 09:36:12;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 09:36:03;Mahmood Sabah Noori Mahmood;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '137640' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 09:35:53;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+26 nov. 25, 09:35:53;Mahmood Sabah Noori Mahmood;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '137640' viewed the course with id '84646'.;web
+5 déc. 25, 14:32:40;Mansar Slim;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2290752'.;web
+5 déc. 25, 14:32:13;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+5 déc. 25, 14:32:10;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+5 déc. 25, 14:32:06;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 14:15:45;Mansar Slim;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:15:42;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 13:54:44;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 13:54:05;Mansar Slim;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Statut du travail remis consulté;The user with id '162521' has viewed the submission status page for the assignment with course module id '2290181'.;web
+4 déc. 25, 13:54:04;Mansar Slim;-;Devoir: Espace de dépôt du TP Pendu/Tkinter;Devoir;Module de cours consulté;The user with id '162521' viewed the 'assign' activity with course module id '2290181'.;web
+4 déc. 25, 13:54:00;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 13:53:57;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+4 déc. 25, 13:53:55;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 13:53:53;Mansar Slim;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '162521' viewed the 'forum' activity with course module id '2280633'.;web
+4 déc. 25, 13:53:45;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 13:37:03;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+4 déc. 25, 13:37:03;Mansar Slim;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 162521 took attendance with instanceid 4063;web
+4 déc. 25, 13:36:52;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+4 déc. 25, 13:36:43;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 10:17:06;Mansar Slim;Mansar Slim;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2290180' for the user with id '162521'.;web
+4 déc. 25, 10:17:06;Mansar Slim;Mansar Slim;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2290180' for the user with id '162521'.;web
+4 déc. 25, 10:17:06;Mansar Slim;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 10:17:01;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+3 déc. 25, 16:02:47;Mansar Slim;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2280636'.;web
+3 déc. 25, 15:52:47;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:36;Mansar Slim;Mansar Slim;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2289680' for the user with id '162521'.;web
+3 déc. 25, 14:47:36;Mansar Slim;Mansar Slim;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2289680' for the user with id '162521'.;web
+3 déc. 25, 14:47:36;Mansar Slim;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:47:34;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+3 déc. 25, 14:46:54;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+3 déc. 25, 14:46:49;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+3 déc. 25, 14:46:44;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+3 déc. 25, 13:38:32;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+3 déc. 25, 13:38:32;Mansar Slim;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 162521 took attendance with instanceid 4063;web
+3 déc. 25, 13:38:22;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+3 déc. 25, 13:38:15;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 20:51:00;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 20:50:44;Mansar Slim;Mansar Slim;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2284118' for the user with id '162521'.;web
+27 nov. 25, 20:50:44;Mansar Slim;Mansar Slim;Fichier: Automobiles;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2284118' for the user with id '162521'.;web
+27 nov. 25, 20:50:44;Mansar Slim;-;Fichier: Automobiles;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2284118'.;web
+27 nov. 25, 20:50:27;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 15:56:48;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 15:16:03;Mansar Slim;Mansar Slim;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2284123' for the user with id '162521'.;web
+27 nov. 25, 15:16:03;Mansar Slim;Mansar Slim;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2284123' for the user with id '162521'.;web
+27 nov. 25, 15:16:03;Mansar Slim;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:15:42;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 14:54:02;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:52;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:48;Mansar Slim;Mansar Slim;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2283815' for the user with id '162521'.;web
+27 nov. 25, 13:36:48;Mansar Slim;Mansar Slim;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2283815' for the user with id '162521'.;web
+27 nov. 25, 13:36:48;Mansar Slim;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 13:36:47;Mansar Slim;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2280636'.;web
+27 nov. 25, 13:35:15;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+27 nov. 25, 13:35:15;Mansar Slim;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 162521 took attendance with instanceid 4063;web
+27 nov. 25, 13:35:06;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+27 nov. 25, 13:35:04;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:16;Mansar Slim;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:12;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:35;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:09;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:07;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:41:02;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:56;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:54;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:51;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:49;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:46;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:40;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:37;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:35;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:31;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:18;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:17;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:12;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 14:24:54;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 14:13:28;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 14:13:24;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 14:11:45;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 14:11:00;Mansar Slim;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '162521' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 14:10:58;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 14:10:57;Mansar Slim;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '162521' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 14:10:12;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 14:10:11;Mansar Slim;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 162521 took attendance with instanceid 4063;web
+26 nov. 25, 14:10:11;Mansar Slim;Mansar Slim;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '162521' updated the grade with id '114552010' for the user with id '162521' for the grade item with id '397521'.;web
+26 nov. 25, 14:09:02;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 13:09:17;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 13:09:13;Mansar Slim;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 13:09:04;Mansar Slim;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 13:08:35;Mansar Slim;Roussanaly Azim;Cours: FC : Python avancée (2025-2026);Système;Profil utilisateur consulté;The user with id '162521' viewed the profile for the user with id '65146' in the course with id '84646'.;web
+26 nov. 25, 13:08:27;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Liste d’utilisateurs consultée;The user with id '162521' viewed the list of users in the course with id '84646'.;web
+26 nov. 25, 13:08:22;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 13:08:19;Mansar Slim;-;Forum: Forum (questions/réponses);Forum;Module de cours consulté;The user with id '162521' viewed the 'forum' activity with course module id '2280633'.;web
+26 nov. 25, 13:08:16;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 09:57:48;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+26 nov. 25, 09:57:42;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 09:56:12;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 09:56:09;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 09:55:04;Mansar Slim;Mansar Slim;Présence: Présence;Présence;Rapport de session consulté;User with id 162521 viewed attendance sessions for student with id 162521;web
+26 nov. 25, 09:54:22;Mansar Slim;Mansar Slim;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2280636' for the user with id '162521'.;web
+26 nov. 25, 09:54:22;Mansar Slim;Mansar Slim;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '162521' updated the completion state for the course module with id '2280636' for the user with id '162521'.;web
+26 nov. 25, 09:54:22;Mansar Slim;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '162521' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:54:17;Mansar Slim;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '162521' viewed the course with id '84646'.;web
+4 déc. 25, 14:17:00;Zayani Inass;-;Fichier: Dataset COVID19 (big);Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2290752'.;web
+4 déc. 25, 14:16:55;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+4 déc. 25, 13:53:58;Zayani Inass;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2289680'.;web
+4 déc. 25, 13:53:44;Zayani Inass;Zayani Inass;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2290180' for the user with id '439453'.;web
+4 déc. 25, 13:53:44;Zayani Inass;Zayani Inass;Fichier: Tkinter;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2290180' for the user with id '439453'.;web
+4 déc. 25, 13:53:44;Zayani Inass;-;Fichier: Tkinter;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2290180'.;web
+4 déc. 25, 13:53:40;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+4 déc. 25, 13:38:06;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+4 déc. 25, 13:38:06;Zayani Inass;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439453 took attendance with instanceid 4063;web
+4 déc. 25, 13:37:51;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+4 déc. 25, 13:37:48;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+3 déc. 25, 16:02:51;Zayani Inass;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2280636'.;web
+3 déc. 25, 16:02:42;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:37;Zayani Inass;Zayani Inass;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2289680' for the user with id '439453'.;web
+3 déc. 25, 14:47:37;Zayani Inass;Zayani Inass;Fichier: Pendu;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2289680' for the user with id '439453'.;web
+3 déc. 25, 14:47:37;Zayani Inass;-;Fichier: Pendu;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2289680'.;web
+3 déc. 25, 14:47:34;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+3 déc. 25, 14:47:22;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+3 déc. 25, 13:38:11;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+3 déc. 25, 13:38:10;Zayani Inass;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439453 took attendance with instanceid 4063;web
+3 déc. 25, 13:37:52;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+3 déc. 25, 13:37:46;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+27 nov. 25, 15:15:27;Zayani Inass;Zayani Inass;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2284123' for the user with id '439453'.;web
+27 nov. 25, 15:15:27;Zayani Inass;Zayani Inass;Fichier: POO #2;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2284123' for the user with id '439453'.;web
+27 nov. 25, 15:15:27;Zayani Inass;-;Fichier: POO #2;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2284123'.;web
+27 nov. 25, 15:15:24;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+27 nov. 25, 15:14:14;Zayani Inass;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2282713'.;web
+27 nov. 25, 15:13:18;Zayani Inass;Zayani Inass;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2283815' for the user with id '439453'.;web
+27 nov. 25, 15:13:18;Zayani Inass;Zayani Inass;Fichier: POO #1;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2283815' for the user with id '439453'.;web
+27 nov. 25, 15:13:18;Zayani Inass;-;Fichier: POO #1;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2283815'.;web
+27 nov. 25, 15:13:11;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+27 nov. 25, 13:36:21;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+27 nov. 25, 13:36:21;Zayani Inass;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439453 took attendance with instanceid 4063;web
+27 nov. 25, 13:36:06;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+27 nov. 25, 13:36:03;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:29;Zayani Inass;-;Fichier: Dataset Automobiles;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2282713'.;web
+26 nov. 25, 15:42:25;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 15:42:22;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 15:40:25;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 14:13:52;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+26 nov. 25, 14:13:52;Zayani Inass;-;Présence: Présence;Présence;Statut de présence renseigné par l’étudiant;Student with id 439453 took attendance with instanceid 4063;web
+26 nov. 25, 14:13:52;Zayani Inass;Zayani Inass;Cours: FC : Python avancée (2025-2026);Système;Utilisateur évalué;The user with id '439453' updated the grade with id '114556039' for the user with id '439453' for the grade item with id '397521'.;web
+26 nov. 25, 14:13:32;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+26 nov. 25, 14:13:29;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 10:35:31;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 10:34:39;Zayani Inass;Zayani Inass;Présence: Présence;Présence;Rapport de session consulté;User with id 439453 viewed attendance sessions for student with id 439453;web
+26 nov. 25, 10:34:16;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web
+26 nov. 25, 09:11:59;Zayani Inass;Zayani Inass;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2280636' for the user with id '439453'.;web
+26 nov. 25, 09:11:59;Zayani Inass;Zayani Inass;Fichier: Organisation;Système;Achèvement d’activité modifié;The user with id '439453' updated the completion state for the course module with id '2280636' for the user with id '439453'.;web
+26 nov. 25, 09:11:59;Zayani Inass;-;Fichier: Organisation;Fichier;Module de cours consulté;The user with id '439453' viewed the 'resource' activity with course module id '2280636'.;web
+26 nov. 25, 09:11:51;Zayani Inass;-;Cours: FC : Python avancée (2025-2026);Système;Cours consulté;The user with id '439453' viewed the course with id '84646'.;web

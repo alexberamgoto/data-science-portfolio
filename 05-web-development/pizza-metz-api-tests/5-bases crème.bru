@@ -1,0 +1,20 @@
+meta {
+  name: 5-bases crème
+  type: http
+  seq: 5
+}
+
+get {
+  url: {{API_BASE}}/items/pizzas?filter[base][_eq]=Crème
+  body: none
+  auth: inherit
+}
+
+params:query {
+  filter[base][_eq]: Crème
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

@@ -1,0 +1,20 @@
+meta {
+  name: 10-obtenir le prix moyen des pizzas proposées au menu ?
+  type: http
+  seq: 10
+}
+
+get {
+  url: {{API_BASE}}/items/pizzas?aggregate[avg]=price
+  body: none
+  auth: inherit
+}
+
+params:query {
+  aggregate[avg]: price
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

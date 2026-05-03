@@ -1,0 +1,27 @@
+meta {
+  name: 13-connecter un utilisateur
+  type: http
+  seq: 13
+}
+
+post {
+  url: {{API_BASE}}/auth/login
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "email": "alexisberamgoto@gmail.com",
+    "password": "azerty"
+  }
+}
+
+vars:post-response {
+  access_token: res.body.data.access_token
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
