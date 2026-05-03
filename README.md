@@ -17,6 +17,7 @@
 | [**Python-Math-Algo (ARCHE)**](01-machine-learning/python-math-algo-streamlit/) | Streamlit · RandomForest | Plateforme interactive d'analyse logs/notes — comparaison régression/RF |
 | [**ML — TPs & études de cas**](01-machine-learning/ml-tps/) | pandas · sklearn · NLP | Segmentation RFM, NLP stop-words, FPDF flashcards |
 | [**Projet ARCHE — Documentation**](01-machine-learning/arche-prediction-reussite/) | Markdown | Dossier d'analyse + dossier technique du projet de prédiction |
+| [**Analyse descriptive patients**](01-machine-learning/patients-descriptive-analysis/) | sklearn · GridSearchCV · VIF · ROC | Pipeline ML clinique optimisé : multicollinéarité, hyperparamètres CV, courbes ROC, +3-8 % AUC |
 
 ### 2. Deep Learning
 
